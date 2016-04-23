@@ -1,0 +1,5 @@
+
+  ETeth=210E9
+  TickTeth=0.033  !! tickness of the hollow cross section
+  DTethI=1.0       !! Dimaeter of circular cross section
+  leg=25

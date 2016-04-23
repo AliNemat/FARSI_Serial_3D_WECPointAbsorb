@@ -1,0 +1,6 @@
+      
+      point_Teth(1,1)=Solid_S_Ini+Bp(1,1)  
+      point_Teth(1,2)=Bp(1,2)       
+      point_Teth(1,3)=Solid_H_Ini+Bp(1,3)-r_Cyl_1
+
+

@@ -1,0 +1,3 @@
+L_Rig_Teth=Froude*13.25
+M_Bal_Teth=(Froude**3)*19.75*1000  !! kg
+Buoy_Bal_Teth=(Froude**3)*(1.74)*1000  !!kg  !(2.8)*1000   !! 1.74 
